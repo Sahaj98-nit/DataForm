@@ -1,0 +1,13 @@
+-- filename is incremental_table.sqlx
+
+config {
+  type: "view",
+  schema: "dataform_dataset_nitant"
+}
+
+SELECT 
+  'test' AS name, 
+  'test1' AS name2
+
+
+  

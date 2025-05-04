@@ -1,0 +1,5 @@
+defaultProject: bigquerypractice-458702
+defaultLocation: us-south1
+defaultDataset: dataform_dataset_nitant
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
