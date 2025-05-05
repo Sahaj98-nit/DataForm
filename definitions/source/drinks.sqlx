@@ -1,0 +1,8 @@
+// filename is incremental_table.sqlx
+
+config {
+  type: "declaration",
+  database: "bigquerypractice-458702",
+  schema: "dataform_dataset_nitant",
+  name: "drinks",
+}

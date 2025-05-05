@@ -1,8 +1,0 @@
-config {
-  type: "view",
-  schema: "dataform_dataset_nitant"
-}
-
-SELECT 
-  *
-  FROM ${ref("first_model_table")}
